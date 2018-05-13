@@ -1,0 +1,5 @@
++ profile.d/
++ profile.d/fcitx.sh
++ profile.d/wakeup.sh
+
+- *

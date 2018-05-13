@@ -1,0 +1,17 @@
+- .cache
+- Dropbox
+- .dropbox
+- .electron
+- .electron-gyp
+- .nvm
+- .npm
+- .yarn
+- .config/yarn
+- .config/npm
+- .node-gyp
+- lost+found
+- .config/chromium
+- .local/share
+- .rsync_tmbackup
+- .viminfo
+- .atom/compile-cache/
